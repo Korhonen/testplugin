@@ -1,0 +1,18 @@
+#acookies_id {
+display: block;
+    text-align: center;
+    z-index: 100000;
+    position: fixed;
+    min-width: 100%;
+    height: auto;
+    font-size: 12px;
+    line-height: 18px;
+    left: 0;
+    padding: 10px;
+    opacity: 0.8;
+}
+#acookies_id img
+{
+    margin-left: 10px;
+	width: 20px;
+}
